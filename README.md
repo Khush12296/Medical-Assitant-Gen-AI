@@ -1,5 +1,5 @@
 # Medical-Assitant-Gen-AI
-RAG | Agentic AI | LLM | Retrieval
+RAG | NLP | Agentic AI | LLM | Retrieval
 
 
 The healthcare sector is moving at breakneck speed. Today’s clinicians aren't just fighting illnesses; they are fighting a literal mountain of data. While having more information is theoretically better, the reality is often "analysis paralysis." In high-stakes environments—especially emergency rooms—doctors need to find the "needle in the haystack" of medical research in seconds, not minutes.
